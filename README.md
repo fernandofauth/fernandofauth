@@ -1,6 +1,8 @@
 # Fernando Fauth
 
-**AI Systems Builder • Founder**
+**AI Automation Engineer**
+
+**Duxko • Founder**
 
 Building the **AI Software Production System**
 
@@ -34,20 +36,16 @@ The real opportunity lies in **automating processes and systems that support how
 
 ## 🛠 Areas of Interest
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge)
-![Software Systems](https://img.shields.io/badge/Software%20Systems-1F6FEB?style=for-the-badge)
-![Developer Productivity](https://img.shields.io/badge/Developer%20Productivity-6E40C9?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-F97316?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-0EA5E9?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8E7CC3?style=for-the-badge&logoColor=white)
+![Software Systems](https://img.shields.io/badge/Software%20Systems-6FA8DC?style=for-the-badge&logoColor=white)
+![Developer Productivity](https://img.shields.io/badge/Developer%20Productivity-8E7CC3?style=for-the-badge&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-6FA8DC?style=for-the-badge&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-8E7CC3?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 🌐 Links
 
-- 🌍 Website — https://duxko.com  
-- 💻 GitHub — https://github.com/fernandofauth  
-- 🔗 LinkedIn — https://linkedin.com/in/fernando-fauth  
-
----
-
-*Building the future of AI-driven software production.*
+- Personal Website — https://fernandofauth.com  
+- Duxko — https://duxko.com  
+- LinkedIn — https://linkedin.com/in/fernando-fauth  
