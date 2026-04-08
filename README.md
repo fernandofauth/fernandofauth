@@ -1,28 +1,22 @@
 # Fernando Fauth
 
-**AI Automation Engineer**
+**AI Systems Engineer**
 
-**Duxko • Founder**
+**Duxko**
 
-Building the **AI Software Production System**
-
-Connect design, code, tasks, and AI into one continuous system — from design to delivery.
+Building AI systems that automate and scale businesses
 
 ---
 
-## 👋 About Me
+👋 About Me
 
-I'm an **AI automation engineer** and systems thinker focused on improving how complex systems operate.
+I'm an AI systems engineer and founder focused on building intelligent systems that transform how software is created and how businesses operate.
 
-My work focuses on designing **AI-driven systems that augment human workflows**, automate processes, and improve how systems are designed and operated.
+I design and develop AI-driven systems, agents, and automation platforms that connect workflows, reduce complexity, and enable scalable execution.
 
-I'm particularly interested in the intersection of:
+Currently building:
 
-- 🤖 Artificial Intelligence  
-- ⚙️ Software production systems  
-- 🧠 Developer tooling  
-- 🏗 System design  
-- 🔁 Process and engineering automation  
+Duxko — AI software production system
 
 ---
 
