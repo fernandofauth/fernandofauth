@@ -2,9 +2,9 @@
 
 **AI Systems Engineer**
 
-**Duxko**
+**Foloon**
 
-Building AI systems that automate and scale businesses
+Building AI systems that help businesses operate, sell, and scale.
 
 ---
 
@@ -16,7 +16,9 @@ I design and develop AI-driven systems, agents, and automation platforms that co
 
 Currently building:
 
-Duxko — AI software production system
+Foloon — AI Shopping Assistant for Ecommerce
+
+Foloon helps ecommerce businesses give customers better answers, discover the right products, and improve the shopping experience with AI.
 
 ---
 
@@ -41,5 +43,5 @@ The real opportunity lies in **automating processes and systems that support how
 ## 🌐 Links
 
 - Personal Website — https://fernandofauth.com  
-- Duxko — https://duxko.com  
+- Foloon — https://foloon.com  
 - LinkedIn — https://linkedin.com/in/fernando-fauth  
